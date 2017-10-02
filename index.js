@@ -1,6 +1,7 @@
 //return the first element that matches the selector
 function getFirstSelector(selector) {
    var firstElement = document.querySelector(selector)
+<<<<<<< HEAD
    return firstElement
 }
 
@@ -28,4 +29,6 @@ function deepestChild(){
 
   return current
 
+=======
+>>>>>>> 88b0da60445a7d0f7c8ddee5b515a0493771220e
 }
